@@ -1,0 +1,1 @@
+Trata-se da Primeira atividade do curso de desenvolvimento de software da Cubos Academy, com conceitos iniciais das ferramentas a serem utilizadas no curso. Neste caso, especialmente, o GIT.
